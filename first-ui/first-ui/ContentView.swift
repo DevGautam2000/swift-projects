@@ -20,7 +20,7 @@ struct ContentView: View {
                 .aspectRatio(
                     contentMode: .fit)
                 
-                Text(verbatim: "WAR")
+                Text(verbatim: "Wakjbkjbfksdj")
                             
             }
             
