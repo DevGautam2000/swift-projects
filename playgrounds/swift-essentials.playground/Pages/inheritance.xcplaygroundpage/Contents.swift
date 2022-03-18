@@ -39,6 +39,25 @@ class Square: Shape{
     
 }
 
+class AnyThing {
+    var something:Int = 0
+    
+    init( fromSomething something:Int ){
+        self.something = something
+    
+    }
+    
+    var content : Int{
+        get{
+            something
+        }
+        set{
+            
+        }
+    }
+    
+}
+
 var rect = Rectangle(length: 10, breadth:10)
 print(rect.area)
 print(rect.type)
@@ -46,3 +65,6 @@ print(rect.type)
 var sq = Square(side: 20)
 print(sq.area)
 print(sq.type)
+
+var anything = AnyThing(fromSomething: 12)
+print(anything.content)

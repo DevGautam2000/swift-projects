@@ -14,5 +14,10 @@
         <page name='enumerations'/>
         <page name='inheritance'/>
         <page name='subscripts'/>
+        <page name='external-parameters'/>
+        <page name='deiniitialisation'/>
+        <page name='extensions'/>
+        <page name='protocols'/>
+        <page name='generics'/>
     </pages>
 </playground>
