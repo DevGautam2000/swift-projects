@@ -13,5 +13,6 @@
         <page name='closures'/>
         <page name='enumerations'/>
         <page name='inheritance'/>
+        <page name='subscripts'/>
     </pages>
 </playground>
